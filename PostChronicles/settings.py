@@ -124,6 +124,8 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 LOGIN_REDIRECT_URL = 'blog-index'
 
+LOGIN_URL = 'users-login'
+
 STATIC_URL = 'static/'
 
 # Default primary key field type
