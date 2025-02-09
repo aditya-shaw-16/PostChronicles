@@ -125,6 +125,7 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 LOGIN_REDIRECT_URL = 'blog-index'
 
 LOGIN_URL = 'users-login'
+# LOGOUT_URL = 
 
 STATIC_URL = 'static/'
 
